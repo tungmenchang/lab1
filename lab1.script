@@ -1,0 +1,50 @@
+命令稿啟動於 2018年03月10日 下午 12:29:31
+]0;~/lab1
+[32mGP62M@MSI [33m~/lab1[0m
+$ whoami; pwd
+GP62M
+/home/GP62M/lab1
+]0;~/lab1
+[32mGP62M@MSI [33m~/lab1[0m
+$ git config -l
+user.eail=tungmenchang@gmail.com
+user.email=tungmenchang
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+remote.origin.url=https://github.com/tungmenchang/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+remote.alab1.url=https://github.com/tungmenchang/lab1.git
+remote.alab1.fetch=+refs/heads/*:refs/remotes/alab1/*
+remote.a.url=https://github.com/tungmenchang/lab1.git
+remote.a.fetch=+refs/heads/*:refs/remotes/a/*
+remote.b.url=https://github.com/tungmenchang/lab1.git
+remote.b.fetch=+refs/heads/*:refs/remotes/b/*
+remote.c.url=https://github.com/tungmenchang/lab1.git
+remote.c.fetch=+refs/heads/*:refs/remotes/c/*
+remote.d.url=https://github.com/tungmenchang/lab1.git
+remote.d.fetch=+refs/heads/*:refs/remotes/d/*
+remote.e.url=https://github.com/tungmenchang/lab1.git
+remote.e.fetch=+refs/heads/*:refs/remotes/e/*
+]0;~/lab1
+[32mGP62M@MSI [33m~/lab1[0m
+$ git clone https://github.com/<your github account>/lab1.git
+bash: your: No such file or directory
+]0;~/lab1
+[32mGP62M@MSI [33m~/lab1[0m
+$ git clone https://github.com/<your github account>/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitt/lab1.gitu/lab1.gitn/lab1.gitg/lab1.gitm/lab1.gite/lab1.gitn/lab1.gitc/lab1.gith/lab1.gita/lab1.gitn/lab1.gitg/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 22, done.[K
+remote: Compressing objects:   5% (1/19)   [Kremote: Compressing objects:  10% (2/19)   [Kremote: Compressing objects:  15% (3/19)   [Kremote: Compressing objects:  21% (4/19)   [Kremote: Compressing objects:  26% (5/19)   [Kremote: Compressing objects:  31% (6/19)   [Kremote: Compressing objects:  36% (7/19)   [Kremote: Compressing objects:  42% (8/19)   [Kremote: Compressing objects:  47% (9/19)   [Kremote: Compressing objects:  52% (10/19)   [Kremote: Compressing objects:  57% (11/19)   [Kremote: Compressing objects:  63% (12/19)   [Kremote: Compressing objects:  68% (13/19)   [Kremote: Compressing objects:  73% (14/19)   [Kremote: Compressing objects:  78% (15/19)   [Kremote: Compressing objects:  84% (16/19)   [Kremote: Compressing objects:  89% (17/19)   [Kremote: Compressing objects:  94% (18/19)   [Kremote: Compressing objects: 100% (19/19)   [Kremote: Compressing objects: 100% (19/19), done.[K
+Unpacking objects:   4% (1/22)   Unpacking objects:   9% (2/22)   Unpacking objects:  13% (3/22)   Unpacking objects:  18% (4/22)   Unpacking objects:  22% (5/22)   Unpacking objects:  27% (6/22)   Unpacking objects:  31% (7/22)   Unpacking objects:  36% (8/22)   Unpacking objects:  40% (9/22)   Unpacking objects:  45% (10/22)   Unpacking objects:  50% (11/22)   Unpacking objects:  54% (12/22)   Unpacking objects:  59% (13/22)   Unpacking objects:  63% (14/22)   Unpacking objects:  68% (15/22)   Unpacking objects:  72% (16/22)   Unpacking objects:  77% (17/22)   Unpacking objects:  81% (18/22)   Unpacking objects:  86% (19/22)   Unpacking objects:  90% (20/22)   Unpacking objects:  95% (21/22)   Unpacking objects: 100% (22/22)   Unpacking objects: 100% (22/22), done.
+remote: Total 22 (delta 5), reused 11 (delta 1), pack-reused 0[K
+]0;~/lab1
+[32mGP62M@MSI [33m~/lab1[0m
+$ exit
+
+命令稿已於 2018年03月10日 下午 12:31:11
+ 完成
