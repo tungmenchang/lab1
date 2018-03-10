@@ -1,11 +1,15 @@
 命令稿啟動於 2018年03月10日 上午 11:27:10
-]0;~/lab1
-[32mGP62M@MSI [33m~/lab1[0m
+]0;~/lab1
+
+[32mGP62M@MSI [33m~/lab1[0m
+
 $ whoami; pwd
 GP62M
 /home/GP62M/lab1
-]0;~/lab1
-[32mGP62M@MSI [33m~/lab1[0m
+]0;~/lab1
+
+[32mGP62M@MSI [33m~/lab1[0m
+
 $ git config -l
 user.eail=tungmenchang@gmail.com
 user.email=tungmenchang
@@ -22,20 +26,28 @@ remote.alab1.url=https://github.com/tungmenchang/lab1.git
 remote.alab1.fetch=+refs/heads/*:refs/remotes/alab1/*
 remote.a.url=https://github.com/tungmenchang/lab1.git
 remote.a.fetch=+refs/heads/*:refs/remotes/a/*
-]0;~/lab1
-[32mGP62M@MSI [33m~/lab1[0m
+]0;~/lab1
+
+[32mGP62M@MSI [33m~/lab1[0m
+
 $ ./a
 n = 35
-35 106 53 160 80 40 20 10 5 16 8 4 2 1 ]0;~/lab1
-[32mGP62M@MSI [33m~/lab1[0m
+35 106 53 160 80 40 20 10 5 16 8 4 2 1 ]0;~/lab1
+
+[32mGP62M@MSI [33m~/lab1[0m
+
 $ ./a
 n = 44 2
-42 21 64 32 16 8 4 2 1 ]0;~/lab1
-[32mGP62M@MSI [33m~/lab1[0m
+42 21 64 32 16 8 4 2 1 ]0;~/lab1
+
+[32mGP62M@MSI [33m~/lab1[0m
+
 $ ./a
 n = 1
-1 ]0;~/lab1
-[32mGP62M@MSI [33m~/lab1[0m
+1 ]0;~/lab1
+
+[32mGP62M@MSI [33m~/lab1[0m
+
 $ exit
 
 命令稿已於 2018年03月10日 上午 11:30:00
